@@ -39,3 +39,6 @@ set wildmenu
 
 " Highlight search results
 set hlsearch
+
+" No bell sounds
+set belloff=all
