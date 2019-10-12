@@ -16,8 +16,6 @@ let mapleader = ","
 " Enable syntax highlighting
 syntax enable
 
-colorscheme darkblue
-
 set encoding=utf8
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
