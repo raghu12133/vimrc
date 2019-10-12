@@ -13,3 +13,6 @@
 [submodule "plugins/vim-monokai"]
 	path = plugins/vim-monokai
 	url = git@github.com:sickill/vim-monokai.git
+[submodule "plugins/ale"]
+	path = plugins/ale
+	url = git@github.com:dense-analysis/ale.git
