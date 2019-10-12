@@ -1,3 +1,6 @@
 [submodule "plugins/vim-airline"]
 	path = plugins/vim-airline
 	url = git@github.com:vim-airline/vim-airline.git
+[submodule "plugins/nerdtree"]
+	path = plugins/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
