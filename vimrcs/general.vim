@@ -40,3 +40,6 @@ set hlsearch
 
 " No bell sounds
 set belloff=all
+
+" Show line numbers
+set number
