@@ -16,3 +16,6 @@
 [submodule "plugins/ale"]
 	path = plugins/ale
 	url = git@github.com:dense-analysis/ale.git
+[submodule "plugins/vim-airline-themes"]
+	path = plugins/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
