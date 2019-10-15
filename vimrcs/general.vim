@@ -43,3 +43,12 @@ set belloff=all
 
 " Show line numbers
 set number
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Backup
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" No backup & swap
+set nobackup
+set nowb
+set noswapfile
