@@ -16,7 +16,7 @@ let mapleader = ","
 " Enable syntax highlighting
 syntax enable
 
-set encoding=utf8
+colorscheme morning
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Editor
