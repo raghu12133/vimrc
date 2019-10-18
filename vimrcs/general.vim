@@ -44,6 +44,10 @@ set belloff=all
 " Show line numbers
 set number
 
+" Show trailing whitespaces
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Backup
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
