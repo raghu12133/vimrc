@@ -16,3 +16,9 @@
 [submodule "plugins/vim-gitgutter"]
 	path = plugins/vim-gitgutter
 	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "plugins/vim-javascript"]
+	path = plugins/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "plugins/gruvbox"]
+	path = plugins/gruvbox
+	url = git@github.com:morhetz/gruvbox.git
